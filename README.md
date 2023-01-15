@@ -21,7 +21,7 @@ Team members:
   - Alexander Vargas
   - Adam Wojtulewski
 
-**************************************************************** Sprint 0 *******************************************************************************
+*** Sprint 0 ***
 
 For Sprint 0, these are the roles and responsibilities of each group member:
   - Nico Lopera (Front-end Engineer)

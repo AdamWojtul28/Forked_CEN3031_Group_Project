@@ -14,7 +14,7 @@ Project Features:
   •	Contract Form
 
 Timeline of Project for Back-end:
-  1) Determine how to implement Database (Back-end) 
+  1) Determine how to implement Database
   2) Implement Database
   3) Create profile
   4) Implement registration/login
@@ -33,7 +33,7 @@ Team members:
 
 *** Sprint 1 ***
 
-For Sprint 1, these are the roles and responsibilities of each group member:
+For Sprint 1, these are the tenative roles and responsibilities of each group member:
   - Nico Lopera (Front-end Engineer)
     - Responsibility 1
     - Responsibility 2... 

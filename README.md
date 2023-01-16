@@ -36,6 +36,9 @@ For Sprint 0, these are the roles and responsibilities of each group member:
 - Adam Wojtulewski (Back-end Engineer)
     - Responsibility 1
     - Responsibility 2... 
+    
+This is the schedule of team meetings for Sprint 0:
+- Thursday 3:30PM 2-3 hours: all 4 members
 
 What each group member has accomplished during this sprint:
   - Nico Lopera

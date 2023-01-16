@@ -47,8 +47,8 @@ For Sprint 1, these are the tenative roles and responsibilities of each group me
     - Research basic databases and libraries that we can use
     - implement database
   - Alexander Vargas (Front-end Engineer)
-    - Responsibility 1
-    - Responsibility 2... 
+    - Find map API for angular
+    - Wireframe UI design
 - Adam Wojtulewski (Back-end Engineer)
     - Responsibility 1
     - Responsibility 2... 

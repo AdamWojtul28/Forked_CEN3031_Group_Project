@@ -40,8 +40,8 @@ Timeline of Project for Front-end:
 
 For Sprint 1, these are the tenative roles and responsibilities of each group member:
   - Nico Lopera (Front-end Engineer)
-    - Responsibility 1
-    - Responsibility 2... 
+    - Research map implementation
+    - Outline UI
   - Darrion Ramos (Back-end Engineer)
     - learn basics of Go
     - Research basic databases and libraries that we can use

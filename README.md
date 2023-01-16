@@ -13,8 +13,16 @@ Project Features:
   •	Chat
   •	Contract Form
 
-Timeline of Project:
-  1) 
+Timeline of Project for Back-end:
+  1) Determine how to implement Database (Back-end) 
+  2) Implement Database
+  3) Create profile
+  4) Implement registration/login
+  
+
+Timeline of Project for Front-end:
+  1) Research possibilities for map and calendar
+  2) Outline visuals/UI using Balsamic
 
 
 Team members:
@@ -23,9 +31,9 @@ Team members:
   - Alexander Vargas
   - Adam Wojtulewski
 
-*** Sprint 0 ***
+*** Sprint 1 ***
 
-For Sprint 0, these are the roles and responsibilities of each group member:
+For Sprint 1, these are the roles and responsibilities of each group member:
   - Nico Lopera (Front-end Engineer)
     - Responsibility 1
     - Responsibility 2... 
@@ -39,7 +47,7 @@ For Sprint 0, these are the roles and responsibilities of each group member:
     - Responsibility 1
     - Responsibility 2... 
     
-This is the schedule of team meetings for Sprint 0:
+This is the schedule of team meetings for Sprint 1:
 - Thursday 3:30PM 2-3 hours: all 4 members
 
 What each group member has accomplished during this sprint:

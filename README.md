@@ -24,6 +24,7 @@ Team members:
   - Adam Wojtulewski
 
 *** Important Details ***
+
 Timeline of Project for Back-end:
   1) Determine how to implement Database
   2) Implement Database

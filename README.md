@@ -13,6 +13,8 @@ Project Features:
   •	Chat
   •	Contract Form
 
+Timeline of Project:
+  1) 
 
 
 Team members:

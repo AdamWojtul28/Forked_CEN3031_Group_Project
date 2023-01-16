@@ -39,6 +39,8 @@ Timeline of Project for Front-end:
 *** Sprint 1 ***
 
 For Sprint 1, these are the tenative roles and responsibilities of each group member:
+Watch the following video: 
+  https://www.youtube.com/watch?v=k5E2AVpwsko
   - Nico Lopera (Front-end Engineer)
     - Research map implementation
     - Outline UI
@@ -50,8 +52,8 @@ For Sprint 1, these are the tenative roles and responsibilities of each group me
     - Find map API for angular
     - Wireframe UI design
 - Adam Wojtulewski (Back-end Engineer)
-    - Responsibility 1
-    - Responsibility 2... 
+    - Learn Go Basics
+    - Research basic databases and libraries that we can use 
     
 This is the schedule of team meetings for Sprint 1:
 - Thursday 3:30PM 2-3 hours: all 4 members

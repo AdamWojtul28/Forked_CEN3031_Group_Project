@@ -42,8 +42,9 @@ For Sprint 1, these are the tenative roles and responsibilities of each group me
     - Responsibility 1
     - Responsibility 2... 
   - Darrion Ramos (Back-end Engineer)
-    - Responsibility 1
-    - Responsibility 2... 
+    - learn basics of Go
+    - Research basic databases and libraries that we can use
+    - implement database
   - Alexander Vargas (Front-end Engineer)
     - Responsibility 1
     - Responsibility 2... 

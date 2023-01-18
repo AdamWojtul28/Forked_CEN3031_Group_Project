@@ -62,6 +62,7 @@ What each group member has accomplished during this sprint:
   - Nico Lopera
   - Darrion Ramos
   - Alexander Vargas
+    - Decided on Angular Google Maps (AGM) for map components on 1/17/2023
   - Adam Wojtulewski
     - Created outline/project description on 1/11/2023
     - Set up the Github Repository and organized README Document on 1/15/2023
